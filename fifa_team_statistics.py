@@ -24,6 +24,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from convert_xlsx_to_csv import start_converter_process
 
 
 DEFAULT_URL = (
@@ -467,6 +468,7 @@ def main() -> int:
     saved_files = save_category_excels(raw, out_dir)
 
     print(f"Listo. Archivos guardados en: {out_dir.resolve()}")
+    start_converter_process()
     for file_path in saved_files:
         print(f"- {file_path.resolve()}")
     return 0
@@ -474,7 +476,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     try:
-        raise SystemExit(main())
+        raise SystemExit(main())        
     except Exception as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
         raise SystemExit(1)

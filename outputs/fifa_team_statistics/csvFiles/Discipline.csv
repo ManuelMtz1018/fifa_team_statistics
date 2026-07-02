@@ -1,49 +1,49 @@
 ﻿Category,Rank,Team,Fouls Against,Fouls For,Indirect Red Cards,Offsides,Red Cards,Yellow Cards
-Discipline,1,Haiti,55,43,0,7,0,7
-Discipline,1,Japan,55,31,0,4,0,4
-Discipline,3,Paraguay,53,50,0,5,1,9
-Discipline,4,Germany,51,42,0,4,0,3
-Discipline,5,Ecuador,49,37,0,2,1,8
-Discipline,6,Canada,48,58,0,5,0,7
-Discipline,7,England,47,64,0,6,0,3
-Discipline,7,Morocco,47,57,0,6,0,2
-Discipline,9,Bosnia and Herzegovina,46,31,0,2,1,6
-Discipline,9,Ghana,46,33,0,8,0,3
-Discipline,9,Panama,46,33,0,6,0,5
-Discipline,12,Uzbekistan,45,29,0,3,0,4
-Discipline,13,Brazil,44,48,0,10,0,7
-Discipline,13,Congo DR,44,44,0,9,0,6
-Discipline,13,Mexico,44,42,0,4,1,2
-Discipline,13,Netherlands,44,43,0,8,0,3
-Discipline,17,Sweden,43,50,0,9,0,5
-Discipline,18,Norway,42,29,0,3,0,2
-Discipline,18,Scotland,42,39,0,2,0,5
-Discipline,20,France,38,29,0,7,0,1
-Discipline,20,South Africa,38,46,0,8,2,5
-Discipline,20,USA,38,42,0,8,0,5
-Discipline,23,Czechia,37,31,0,5,0,1
-Discipline,23,Switzerland,37,42,0,5,0,3
-Discipline,25,Qatar,36,28,0,4,2,4
-Discipline,26,Colombia,35,34,0,13,0,4
-Discipline,26,IR Iran,35,23,0,9,0,6
-Discipline,28,Australia,34,24,0,1,0,5
-Discipline,28,Egypt,34,42,0,1,0,6
-Discipline,28,Spain,34,15,0,6,0,2
-Discipline,31,Argentina,33,31,0,8,0,2
-Discipline,31,Croatia,33,40,0,4,0,2
-Discipline,33,Austria,32,20,0,6,0,4
-Discipline,33,Curaçao,32,31,0,5,0,7
-Discipline,33,New Zealand,32,23,0,4,0,4
-Discipline,36,Jordan,31,23,0,3,0,4
-Discipline,36,Türkiye,31,38,0,7,0,2
-Discipline,36,Uruguay,31,29,0,14,1,5
-Discipline,39,Belgium,29,33,0,4,1,3
-Discipline,39,Côte d'Ivoire,29,36,0,4,0,4
-Discipline,39,Portugal,29,34,0,7,0,4
-Discipline,39,Saudi Arabia,29,26,0,3,0,6
-Discipline,43,Iraq,27,31,0,1,1,4
-Discipline,43,Tunisia,27,34,0,9,0,1
-Discipline,45,Korea Republic,25,32,0,8,0,4
-Discipline,46,Senegal,24,28,0,8,0,2
+Discipline,1,Bosnia and Herzegovina,59,37,0,2,1,7
+Discipline,2,Haiti,55,43,0,7,0,7
+Discipline,2,Japan,55,31,0,4,0,4
+Discipline,4,Paraguay,53,50,0,5,1,9
+Discipline,5,Belgium,51,45,0,6,1,4
+Discipline,5,Germany,51,42,0,4,0,3
+Discipline,7,Ecuador,49,37,0,2,1,8
+Discipline,8,Canada,48,58,0,5,0,7
+Discipline,9,England,47,64,0,6,0,3
+Discipline,9,Morocco,47,57,0,6,0,2
+Discipline,11,Ghana,46,33,0,8,0,3
+Discipline,11,Panama,46,33,0,6,0,5
+Discipline,13,USA,45,55,0,11,1,5
+Discipline,13,Uzbekistan,45,29,0,3,0,4
+Discipline,15,Brazil,44,48,0,10,0,7
+Discipline,15,Congo DR,44,44,0,9,0,6
+Discipline,15,Mexico,44,42,0,4,1,2
+Discipline,15,Netherlands,44,43,0,8,0,3
+Discipline,19,Sweden,43,50,0,9,0,5
+Discipline,20,Norway,42,29,0,3,0,2
+Discipline,20,Scotland,42,39,0,2,0,5
+Discipline,22,France,38,29,0,7,0,1
+Discipline,22,South Africa,38,46,0,8,2,5
+Discipline,24,Czechia,37,31,0,5,0,1
+Discipline,24,Switzerland,37,42,0,5,0,3
+Discipline,26,Qatar,36,28,0,4,2,4
+Discipline,26,Senegal,36,48,0,10,0,3
+Discipline,28,Colombia,35,34,0,13,0,4
+Discipline,28,IR Iran,35,23,0,9,0,6
+Discipline,30,Australia,34,24,0,1,0,5
+Discipline,30,Egypt,34,42,0,1,0,6
+Discipline,30,Spain,34,15,0,6,0,2
+Discipline,33,Argentina,33,31,0,8,0,2
+Discipline,33,Croatia,33,40,0,4,0,2
+Discipline,35,Austria,32,20,0,6,0,4
+Discipline,35,Curaçao,32,31,0,5,0,7
+Discipline,35,New Zealand,32,23,0,4,0,4
+Discipline,38,Jordan,31,23,0,3,0,4
+Discipline,38,Türkiye,31,38,0,7,0,2
+Discipline,38,Uruguay,31,29,0,14,1,5
+Discipline,41,Côte d'Ivoire,29,36,0,4,0,4
+Discipline,41,Portugal,29,34,0,7,0,4
+Discipline,41,Saudi Arabia,29,26,0,3,0,6
+Discipline,44,Iraq,27,31,0,1,1,4
+Discipline,44,Tunisia,27,34,0,9,0,1
+Discipline,46,Korea Republic,25,32,0,8,0,4
 Discipline,47,Algeria,17,30,0,2,0,1
 Discipline,48,Cabo Verde,15,35,0,5,0,4
