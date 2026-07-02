@@ -1,49 +1,49 @@
-﻿Category,Rank,Team,Crosses,Crossing Accuracy (%),Defensive Linebreaks Acc (%),Defensive Linebreaks Attempted,Passes,Passing Accuracy (%),Switches of Play Acc (%),Switches of Play Attempted
-Distribution,1,Germany,108,22,56,81,2721,90,71,14
-Distribution,2,Morocco,77,27,53,79,2627,89,81,21
-Distribution,3,Brazil,73,29,57,82,2395,90,94,18
-Distribution,4,Belgium,102,27,56,98,2338,88,75,20
-Distribution,5,France,66,17,68,102,2285,90,96,23
-Distribution,6,Senegal,90,28,57,98,2248,88,90,31
-Distribution,7,England,118,25,69,118,2219,90,73,22
-Distribution,8,Spain,82,22,72,78,2191,92,95,21
-Distribution,9,Algeria,32,16,58,57,2070,91,95,19
-Distribution,10,USA,77,27,59,119,2053,86,81,21
-Distribution,11,Netherlands,79,27,60,78,2039,88,82,11
-Distribution,12,Ecuador,88,25,44,93,1985,86,90,10
-Distribution,13,Côte d'Ivoire,78,24,53,85,1970,88,92,13
-Distribution,14,Argentina,21,33,54,41,1966,91,85,13
-Distribution,15,Portugal,61,25,60,82,1899,92,84,25
-Distribution,16,South Africa,36,17,41,63,1855,85,85,27
-Distribution,17,Korea Republic,64,28,60,65,1853,89,86,21
-Distribution,18,Norway,52,37,43,70,1849,86,71,14
-Distribution,19,Türkiye,84,14,60,75,1844,87,73,30
-Distribution,20,Japan,62,26,47,74,1733,86,67,12
-Distribution,21,Canada,131,25,56,94,1730,83,81,16
-Distribution,22,Mexico,42,31,41,71,1690,86,82,17
-Distribution,23,Switzerland,66,14,54,76,1663,88,90,21
-Distribution,24,Colombia,48,29,45,58,1629,88,91,32
-Distribution,25,Bosnia and Herzegovina,59,17,43,53,1618,81,76,17
-Distribution,26,Sweden,62,19,45,75,1569,82,85,13
-Distribution,27,Egypt,53,23,49,72,1543,87,96,23
-Distribution,28,Croatia,45,18,52,61,1515,88,76,17
-Distribution,29,Congo DR,64,22,36,70,1470,81,78,18
-Distribution,30,Austria,48,21,62,60,1467,87,100,5
-Distribution,31,Uruguay,87,21,64,74,1445,87,95,19
-Distribution,32,Scotland,53,34,40,45,1377,87,71,17
-Distribution,33,New Zealand,37,19,22,54,1335,83,75,8
-Distribution,34,Panama,58,21,43,54,1259,83,70,27
-Distribution,35,Saudi Arabia,22,23,40,53,1175,78,67,12
-Distribution,36,Paraguay,41,20,27,55,1169,72,80,15
-Distribution,37,Iraq,24,29,44,48,1129,81,79,14
-Distribution,38,Australia,47,28,50,50,1127,81,56,16
-Distribution,39,Czechia,50,32,38,45,1102,79,75,12
-Distribution,40,Haiti,42,24,40,42,1098,85,100,13
-Distribution,41,Cabo Verde,32,28,34,44,1064,80,65,17
-Distribution,42,Uzbekistan,34,18,27,51,1059,78,76,17
-Distribution,43,IR Iran,40,23,46,50,1051,77,79,14
-Distribution,44,Tunisia,35,23,38,40,1011,80,71,21
-Distribution,45,Ghana,33,24,51,45,1007,84,88,17
-Distribution,46,Curaçao,21,29,40,40,968,80,100,7
-Distribution,47,Jordan,31,32,52,52,914,76,73,11
-Distribution,48,Qatar,28,36,27,71,912,78,91,11
+﻿Team,Crosses,Crossing Accuracy (%),Defensive Linebreaks Acc (%),Defensive Linebreaks Attempted,Passes,Passing Accuracy (%),Switches of Play Acc (%),Switches of Play Attempted
+Algeria,32,16,58,57,2070,91,95,19
+Argentina,21,33,54,41,1966,91,85,13
+Australia,47,28,50,50,1127,81,56,16
+Austria,48,21,62,60,1467,87,100,5
+Belgium,102,27,56,98,2338,88,75,20
+Bosnia and Herzegovina,59,17,43,53,1618,81,76,17
+Brazil,73,29,57,82,2395,90,94,18
+Cabo Verde,32,28,34,44,1064,80,65,17
+Canada,131,25,56,94,1730,83,81,16
+Colombia,48,29,45,58,1629,88,91,32
+Congo DR,64,22,36,70,1470,81,78,18
+Croatia,45,18,52,61,1515,88,76,17
+Curaçao,21,29,40,40,968,80,100,7
+Czechia,50,32,38,45,1102,79,75,12
+Côte d'Ivoire,78,24,53,85,1970,88,92,13
+Ecuador,88,25,44,93,1985,86,90,10
+Egypt,53,23,49,72,1543,87,96,23
+England,118,25,69,118,2219,90,73,22
+France,66,17,68,102,2285,90,96,23
+Germany,108,22,56,81,2721,90,71,14
+Ghana,33,24,51,45,1007,84,88,17
+Haiti,42,24,40,42,1098,85,100,13
+IR Iran,40,23,46,50,1051,77,79,14
+Iraq,24,29,44,48,1129,81,79,14
+Japan,62,26,47,74,1733,86,67,12
+Jordan,31,32,52,52,914,76,73,11
+Korea Republic,64,28,60,65,1853,89,86,21
+Mexico,42,31,41,71,1690,86,82,17
+Morocco,77,27,53,79,2627,89,81,21
+Netherlands,79,27,60,78,2039,88,82,11
+New Zealand,37,19,22,54,1335,83,75,8
+Norway,52,37,43,70,1849,86,71,14
+Panama,58,21,43,54,1259,83,70,27
+Paraguay,41,20,27,55,1169,72,80,15
+Portugal,61,25,60,82,1899,92,84,25
+Qatar,28,36,27,71,912,78,91,11
+Saudi Arabia,22,23,40,53,1175,78,67,12
+Scotland,53,34,40,45,1377,87,71,17
+Senegal,90,28,57,98,2248,88,90,31
+South Africa,36,17,41,63,1855,85,85,27
+Spain,82,22,72,78,2191,92,95,21
+Sweden,62,19,45,75,1569,82,85,13
+Switzerland,66,14,54,76,1663,88,90,21
+Tunisia,35,23,38,40,1011,80,71,21
+Türkiye,84,14,60,75,1844,87,73,30
+USA,77,27,59,119,2053,86,81,21
+Uruguay,87,21,64,74,1445,87,95,19
+Uzbekistan,34,18,27,51,1059,78,76,17

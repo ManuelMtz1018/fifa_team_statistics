@@ -396,7 +396,9 @@ def clean_category_table(df: pd.DataFrame) -> pd.DataFrame:
         if present.any() and numeric_ratio >= 0.4:
             df[column] = pd.to_numeric(converted, errors="coerce")
 
-    required_columns = {"Category", "Rank", "Team"}
+    df = df.drop(columns=["Category", "Rank"], errors="ignore")
+
+    required_columns = {"Team"}
     data_columns = [
         column
         for column in df.columns
@@ -406,16 +408,13 @@ def clean_category_table(df: pd.DataFrame) -> pd.DataFrame:
 
     columns = list(df.columns)
     ordered_columns = []
-    for column in ["Category", "Rank", "Team"]:
+    for column in ["Team"]:
         if column in columns:
             ordered_columns.append(column)
     ordered_columns.extend([column for column in columns if column not in ordered_columns])
     df = df[ordered_columns]
 
-    if "Rank" in df.columns:
-        df = df.sort_values(["Rank", "Team"], na_position="last")
-    else:
-        df = df.sort_values("Team")
+    df = df.sort_values("Team")
 
     return df.reset_index(drop=True)
 
